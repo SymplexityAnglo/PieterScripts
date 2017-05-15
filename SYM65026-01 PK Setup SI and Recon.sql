@@ -78,7 +78,7 @@ VALUES  ( N'RPM'  -- Operation - nvarchar(50)
 		            N'0803' , -- Field Value - nvarchar(50)
 		            N'RPM' , -- Field Description - nvarchar(50)
 		            N'0020701' , -- Codeset - nvarchar(10)
-		            N'803' , -- TA Code - nvarchar(50)
+		            N'804' , -- TA Code - nvarchar(50)
 		            null  -- Active - nvarchar(50)
 
 -------------------------------------------------------------------------------------------------------------------------
